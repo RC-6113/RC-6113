@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RC-6113
+- 👋 Hi, I’m @RC
 
 - 👀 I’m interested in ... Coding and learning new stuff 
 - 🌱 I’m currently learning ... Coding obviously
